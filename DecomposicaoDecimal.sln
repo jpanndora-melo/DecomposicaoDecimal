@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecomposicaoDecimal", "DecomposicaoDecimal.csproj", "{887C394A-0071-1649-FA57-6E51AAF22D49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{887C394A-0071-1649-FA57-6E51AAF22D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{887C394A-0071-1649-FA57-6E51AAF22D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{887C394A-0071-1649-FA57-6E51AAF22D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{887C394A-0071-1649-FA57-6E51AAF22D49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEFBF5C6-C7E8-40DF-8CA9-DF7BE73D0B1F}
+	EndGlobalSection
+EndGlobal
